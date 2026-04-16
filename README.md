@@ -1,17 +1,12 @@
 # ola_mundo
 
-A new Flutter project.
+Um novo projeto de "Olá Mundo!" em flutter
 
-## Getting Started
+## 🚀 Sobre o Projeto
 
-This project is a starting point for a Flutter application.
+Este projeto é o ponto de partida padrão para uma aplicação inicial de Flutter
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠️ Especificações Técnicas
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **SDK Dart:** `^3.11.4`
+- **Flutter SDK:** Dependente da instalação local (compatível com a versão do SDK Dart acima).
